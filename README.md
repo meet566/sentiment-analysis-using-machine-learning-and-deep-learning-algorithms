@@ -1,0 +1,2 @@
+# sentiment analysis using machine learning and deep learning algorithms
+ sentiment analysis is done using two machine learning that are SVM and random forest and two deep learning algorithms that are LSTM and CNN. the US Airline dataset is use to train the model to do sentiment analysis. the data defined in three category so that multiclass SVM is used and CNN is a deep neural network generally used for image classification but we use CNN for text classification and for that TextCNN (1dCNN) is used.
